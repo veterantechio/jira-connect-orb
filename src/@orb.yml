@@ -10,5 +10,5 @@ orbs:
 
 # This information will be displayed in the orb registry and is not mandatory.
 display:
-  home_url: "https://github.com/veterantechio/jira-connect-orb/README.md"
+  home_url: "https://github.com/veterantechio/jira-connect-orb/blob/master/README.md"
   source_url: "https://github.com/veterantechio/jira-connect-orb"

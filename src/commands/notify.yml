@@ -1,3 +1,5 @@
+description: >
+  This command reports to Jira instance final status of builds and deployments
 parameters:
   token_name:
     description: The name of environment variable containing CircleCI API Token. Required for all projects.

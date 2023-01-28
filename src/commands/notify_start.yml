@@ -1,3 +1,5 @@
+description: >
+  This command notifies Jira instance when builds and/or deployments are about to begin so that the status can be updated to show in progress
 parameters:
   token_name:
     description: The name of environment variable containing CircleCI API Token. Required for all projects.
