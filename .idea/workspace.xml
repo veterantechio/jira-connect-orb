@@ -7,6 +7,7 @@
     <list default="true" id="b7271a31-dfdc-4938-bd38-80dcfdb15c9c" name="Changes" comment="Added notify_start.yml">
       <change afterPath="$PROJECT_DIR$/jiraProxy.sh" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/commands/notify_start.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/@orb.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/@orb.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/commands/greet.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/commands/notify.yml" afterDir="false" />
     </list>
@@ -75,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674909412614</updated>
-      <workItem from="1674909417512" duration="1894000" />
+      <workItem from="1674909417512" duration="2154000" />
     </task>
     <task id="LOCAL-00001" summary="Added notify_start.yml">
       <created>1674909639082</created>
